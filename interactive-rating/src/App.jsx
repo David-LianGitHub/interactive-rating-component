@@ -16,7 +16,7 @@ function App() {
         { submitted ? (
           <div className= "bg-[#202630] max-w-sm w-full rounded-2xl p-6 sm:p-8 space-y-6  ">
               <div className='rounded-full h-26 w-full text-[#5B636C]  grid justify-center items-center'>
-                <img src={starIcon} alt="star" ></img>      
+                <img src={thankYou} alt="star" ></img>      
 
               </div>
                  <div className='grid justify-center'>
@@ -44,7 +44,7 @@ function App() {
             
             <div className= "bg-[#202630] max-w-sm w-full rounded-2xl p-6 sm:p-8 space-y-6  ">
               <div className='rounded-full h-10 w-10 text-[#5B636C] bg-[#272f38] grid justify-center items-center'>
-                <img src={thankYou} alt="star" ></img>      
+                <img src={starIcon} alt="star" ></img>      
 
               </div>
 
